@@ -1,5 +1,5 @@
 // Copyright 2021 NNTU-CS
 
 int gcd(int a, int b) {
-	retutn 2;
+	retutn 3;
 }
